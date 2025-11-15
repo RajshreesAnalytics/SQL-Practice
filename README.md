@@ -11,4 +11,5 @@ I practice topics like:
 - Subqueries
 - Window functions
 - CTEs
+
 My goal is to build strong SQL fundamentals by learning daily.
